@@ -1,7 +1,7 @@
 /**
 * Simple addition.
 */
-const add = (x, y) => x - y;
+const add = (x, y) => x + y;
 /**
 * Simple subtraction.
 */
